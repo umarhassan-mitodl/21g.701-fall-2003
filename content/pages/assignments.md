@@ -7,7 +7,7 @@ uid: c40a25b0-ec79-84a4-b582-8bc6544c6c93
 ---
 The table below lists the schedule of out of class assignments, with links the details about each (which are listed at the bottom of this page).
 
-*For OCW online learners*: the video episodes in [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) are available free online from Annenberg Learner.
+*For OCW online learners*: the video episodes in {{% resource_link "13bd8fa2-88ce-4204-a1af-ddd13cbae218" "Destinos: An Introduction to Spanish" %}} are available free online from Annenberg Learner.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 CLASE
@@ -79,9 +79,9 @@ W p. 32-38 (1997 edition: p. 28-33) Lectura sobre Raquel Rodríguez; Presente de
 D p. 41-45
 
 W p. 38-41; (1997 edition: p. 33-36) Adjetivos y concordancia.     
-[Composición 1](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#a)
+{{% resource_link "080a7330-54a0-4387-9984-9e603d2cab4f" "Composición 1" %}}
 
-[Clave de corrección para las composiciones](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#d)
+{{% resource_link "edfcccb1-74bf-49b4-9892-8f427c1a21bd" "Clave de corrección para las composiciones" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -183,7 +183,7 @@ Ver episodio 10
 
 W p. 95-99; (1997 edition: p. 84-87): Lectura sobre Manuel Díaz; Adjetivos.
 
-[Composición 2](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#b)
+{{% resource_link "0348ffa1-6917-4822-9dcb-365df60611c4" "Composición 2" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
@@ -196,7 +196,7 @@ Hacer hoja de ejercicios lección 10.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
-Visita el [Museo del Prado](http://www.museodelprado.es/en) en Madrid. Explora las diferentes salas del museo y selecciona un cuadro de uno de los pintores mencionados en Destinos. ¿Cuál es el título del cuadro? ¿Qué colores predominan? Prepara una descripción corta para la clase y si puedes imprímelo y traélo a la clase.
+Visita el {{% resource_link "68f19b5f-f5b5-4830-b50d-db34cc9d0862" "Museo del Prado" %}} en Madrid. Explora las diferentes salas del museo y selecciona un cuadro de uno de los pintores mencionados en Destinos. ¿Cuál es el título del cuadro? ¿Qué colores predominan? Prepara una descripción corta para la clase y si puedes imprímelo y traélo a la clase.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -307,7 +307,7 @@ Ver el episodio 17
 
 W. p. 175-180; (1997 edition: p. 154-157 ) Pretérito irregulares.
 
-Lectura: Poema de Pablo Neruda, Premio Noble de Literatura: "[Oda al tomate](https://allpoetry.com/Oda-al-Tomate)". Para más información sobre Neruda visita la [Página de Neruda](http://es.wikipedia.org/wiki/Pablo_Neruda) por la Universidad de Chile, la que tiene su biografía, algunas obras y fotos.
+Lectura: Poema de Pablo Neruda, Premio Noble de Literatura: "{{% resource_link "aafb4b3f-c079-48e8-982c-cf8fb1ddc3f3" "Oda al tomate" %}}". Para más información sobre Neruda visita la {{% resource_link "24487906-0f34-426e-bffc-536c946e2d4b" "Página de Neruda" %}} por la Universidad de Chile, la que tiene su biografía, algunas obras y fotos.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 32
@@ -319,11 +319,11 @@ Hacer hoja de ejercicios lección 17. W p. 180-185; (1997 edition: p. 158-162) P
 
 Antes de ver las película, conoce más sobre la historia de la Argentina en este período conocido coma "la guerra sucia" consultando los siguientes sitios:
 
-[Galería de los desaparecidos](http://www.yendor.com/vanished/s-index.html)
+{{% resource_link "e84afd48-2336-4d14-bec1-99fa08f83ea9" "Galería de los desaparecidos" %}}
 
-[Abuelas de la Plaza de Mayo](http://www.abuelas.org.ar/)
+{{% resource_link "75425aa1-c5e7-4709-bdb2-78c25f48fb45" "Abuelas de la Plaza de Mayo" %}}
 
-[Madres de la Plaza de Mayo](http://www.madres.org/)
+{{% resource_link "cf81df40-f36e-424a-808d-3e94557abb21" "Madres de la Plaza de Mayo" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 33
@@ -401,9 +401,9 @@ Hacer hoja de ejercicios lección 21.   
 \*\*     
 Actividad\*\*: \*\_Pronóstico del tiempo\_\*. Consulta uno de los siguientes lugares para informarte del estado del tiempo en tres ciudades que Raquel ha visitado desde que comenzó la investigación y también las condiciones del tiempo para Boston.
 
-[El tiempo en español Yahoo](https://es-us.noticias.yahoo.com/clima/12758754)
+{{% resource_link "9f8d149f-6bdf-4d97-b419-35f8fc190327" "El tiempo en español Yahoo" %}}
 
-[CNN en español](http://cnnenespanol.com/tiempo/)
+{{% resource_link "63c47507-96e5-4008-a2d5-84142888195e" "CNN en español" %}}
 
 Responde a las siguientes preguntas:     
 ¿Qué tiempo hace hoy?     
@@ -414,7 +414,7 @@ Responde a las siguientes preguntas:   
 42
 {{< tdclose >}}{{< tdopen >}}
 
-[Composición # 3](https://ocw-studio.odl.mit.edu/sites/21g-701-spanish-i-fall-2003/type/page/edit/c40a25b0-ec79-84a4-b582-8bc6544c6c93/#c)
+{{% resource_link "59db1fef-b719-4df8-9de4-6b39255cc579" "Composición # 3" %}}
 
 D p. 215-222
 
