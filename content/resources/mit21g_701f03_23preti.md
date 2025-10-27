@@ -4,8 +4,6 @@ description: This resource contains the information regarding cap.23 pret/imp.
 file: /courses/21g-701-spanish-i-fall-2003/18d9fb5cf2791294578b0965f3cdf474_MIT21G_701F03_23preti.pdf
 file_size: 62275
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -4,8 +4,6 @@ description: This resource contains the information regarding pretrito plural.
 file: /courses/21g-701-spanish-i-fall-2003/266ce1de197696487ac7321ef7b66450_MIT21G_701F03_14encue.pdf
 file_size: 526918
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

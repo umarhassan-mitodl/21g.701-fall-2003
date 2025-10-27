@@ -4,8 +4,6 @@ description: "This resource contains the information regarding agenda-d\xEDas/ho
 file: /courses/21g-701-spanish-i-fall-2003/426c45982a0006fba17825f84748dc1c_MIT21G_701F03_5horario.pdf
 file_size: 613987
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

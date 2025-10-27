@@ -4,8 +4,6 @@ description: This resource contains the information regarding bingo Ch.16-17 (ir
 file: /courses/21g-701-spanish-i-fall-2003/5a8b5ae42ad126cd0535dd9342d39ebe_MIT21G_701F03_17bingo.pdf
 file_size: 548246
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

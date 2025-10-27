@@ -5,8 +5,6 @@ description: This resource contains the information regarding hacer comparacione
 file: /courses/21g-701-spanish-i-fall-2003/ea6b9959f48ccea69d93b3c068c6e7d1_MIT21G_701F03_21adjcom.pdf
 file_size: 535260
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

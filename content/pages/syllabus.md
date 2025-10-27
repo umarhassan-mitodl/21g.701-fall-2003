@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +17,7 @@ General Description
 
 Spanish I will be very different from your other classes at MIT: The central component of the "**DESTINOS**" text and workbook is a series of 52 half-hour video episodes (you see the first 26 in Spanish I, the rest in Spanish II). **DESTINOS** is, in effect, a soap opera that allows you to learn authentic Spanish and experience its cultural diversity while following a good story full of surprises and human emotions (love, death, war, sex, ...). You can watch these episodes outside of class in our departmental Language Learning and Resource Center.
 
-The complete [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) video series with practice exercises is available free online from Annenberg Learner.
+The complete {{% resource_link "13bd8fa2-88ce-4204-a1af-ddd13cbae218" "Destinos: An Introduction to Spanish" %}} video series with practice exercises is available free online from Annenberg Learner.
 
 In the classroom, you will do a variety of activities and exercises, which include talking in Spanish about the video program, practicing pronunciation and grammar, and interacting in Spanish with classmates in pairs and small groups. The class is conducted in Spanish as much as possible, but English is used where necessary for clarity and efficiency.
 
@@ -32,7 +30,7 @@ Required Books
 
 VanPatten, Marks, and Teschner. _DESTINOS_. Text and Workbook/Study Guide 1 (Lecciones 1-26). McGraw Hill, 2002.
 
-\[For OCW online learners: the complete [Destinos: An Introduction to Spanish](https://www.learner.org/series/destinos-an-introduction-to-spanish/) video series with practice exercises is available free online from Annenberg Learner.\]
+\[For OCW online learners: the complete {{% resource_link "13bd8fa2-88ce-4204-a1af-ddd13cbae218" "Destinos: An Introduction to Spanish" %}} video series with practice exercises is available free online from Annenberg Learner.\]
 
 **Recommended**: A good Spanish-English Dictionary.
 

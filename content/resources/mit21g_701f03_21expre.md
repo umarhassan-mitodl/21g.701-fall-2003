@@ -4,8 +4,6 @@ description: This resource contains the information regarding entrevista a un/ a
 file: /courses/21g-701-spanish-i-fall-2003/89f88df237e4234f84541356405d0411_MIT21G_701F03_21expre.pdf
 file_size: 520998
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

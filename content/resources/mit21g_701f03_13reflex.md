@@ -5,8 +5,6 @@ description: "This resource contains the information regarding reflex.-transitiv
 file: /courses/21g-701-spanish-i-fall-2003/ac4253a8b40e0f1a2761033fa1ee1c3a_MIT21G_701F03_13reflex.pdf
 file_size: 61361
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
